@@ -9,7 +9,8 @@
       "Bash(mkdir -p \"C:\\\\Users\\\\Sergiusz\\\\sum.io\\\\frontend\\\\sum.io-frontend\\\\app\\\\\\(auth\\)\\\\sign-in\\\\[[...sign-in]]\")",
       "Bash(mkdir -p \"C:\\\\Users\\\\Sergiusz\\\\sum.io\\\\frontend\\\\sum.io-frontend\\\\app\\\\\\(auth\\)\\\\sign-up\\\\[[...sign-up]]\")",
       "Bash(npx tsc *)",
-      "Bash(npm run *)"
+      "Bash(npm run *)",
+      "Bash(curl -s -v http://localhost:3000/dashboard/settings)"
     ]
   }
 }
