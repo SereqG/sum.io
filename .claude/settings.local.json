@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:api.github.com)",
+      "Bash(curl -s \"https://raw.githubusercontent.com/SereqG/obsidian-glow-auth/main/src/index.css\")",
+      "Bash(curl -s \"https://raw.githubusercontent.com/SereqG/obsidian-glow-auth/main/src/App.css\")",
+      "Bash(npm install *)",
+      "Bash(mkdir -p \"C:\\\\Users\\\\Sergiusz\\\\sum.io\\\\frontend\\\\sum.io-frontend\\\\app\\\\\\(auth\\)\\\\sign-in\\\\[[...sign-in]]\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\Sergiusz\\\\sum.io\\\\frontend\\\\sum.io-frontend\\\\app\\\\\\(auth\\)\\\\sign-up\\\\[[...sign-up]]\")",
+      "Bash(npx tsc *)",
+      "Bash(npm run *)"
+    ]
+  }
+}
